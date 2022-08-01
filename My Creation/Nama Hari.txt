@@ -1,8 +1,0 @@
-Berikut adalah nama-nama hari dalam satu pekan
-~ Senin
-~ Selasa
-~ Rabu
-~ Kamis
-~ Jum'at
-~ Sabtu
-~ Minggu

@@ -7,5 +7,5 @@
 5. Melakukan pembuatan slide aplikasi (penjelasan, algoritma, flowchart)
 <!-- 6. Membuat rangkuman tentang sorting -->
 <!-- 7. Membuat aplikasi sederhana validasi data string -->
-8. Membuat aplikasi sederhana python final
+<!-- 8. Membuat aplikasi sederhana python final -->
 
