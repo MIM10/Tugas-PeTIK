@@ -1,0 +1,13 @@
+Nama	: Usro
+Tmp	    : Bandung
+Tgl	    : 23Maret 2003
+Umur	: 19 Tahun
+Gender	: Laki-Laki
+Golongan Darah	: b
+Agama	: Islam
+KWN	    : Indonesia
+No Hp	: 081290909878
+Email	: Usro@gmail.com
+Alamat	: JL. KH. Bisri Syansuri No. 21
+---
+

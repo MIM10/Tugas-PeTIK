@@ -1,0 +1,75 @@
+body {
+    margin: 8px;
+    padding: 0px;
+    border: 0px;
+}
+
+.header {
+    height: 90px;
+    background-color: black;
+}
+
+.bar {
+    height: 90px;
+    background-color:black;
+}
+
+.satu {
+    float: left;
+    list-style-type: square;
+}
+
+.dua {
+    float: left; 
+    list-style: none; 
+    padding: 27px 3px 20px 40px;
+}
+
+.tiga {
+    float: left; 
+    list-style: none; 
+    padding: 27px 2px;
+}
+
+.icon {
+    float: right;
+}
+
+.empat {
+    padding: 25px 0px 10px 0px;
+}
+
+.lima {
+    float: right; 
+    padding: 10px;
+}
+
+.enam {
+    float: left
+}
+
+.tujuh {
+    margin: 40px 0px 10px 32px;
+}
+
+.delapan {
+    margin-left: 35px; 
+    border-top: 2px solid lightblue; 
+    border-bottom: 2px solid lightblue;
+}
+
+.null {
+    width: 450px;
+}
+
+.sembilan {
+    width: 100px;
+}
+
+.hanu {
+    width: 80px;
+}
+
+.img1 {
+    width: 250px;
+}
